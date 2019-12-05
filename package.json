@@ -14,6 +14,6 @@
     "author": "@joeferraro",
     "license": "MIT",
     "dependencies": {
-        "invariant": "^2.1.0"
+        "invariant": "^2.2.4"
     }
 }
